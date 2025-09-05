@@ -5,8 +5,7 @@ I’m a **Senior Frontend Developer** with 5 years of experience working mainly 
 I’m passionate about building user-friendly, high-performance web applications and am always eager to learn new technologies in the frontend ecosystem.
 
 ### ⚡ Tech Stack
-- Angular (primary)
-- React, Next.js (learning)
+- Angular, React, Next.js
 - Svelte (exploring)
 - JavaScript, TypeScript, HTML, CSS
 - Less, Tailwind CSS
